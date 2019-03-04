@@ -8,3 +8,5 @@ Repositorio para la metria de ciencia de datos, cursada en la maestria de sistem
 [practica3](https://nbviewer.jupyter.org/github/alan-arnoldo-alcantar/DataScience_UANL/blob/master/p3/practica3.ipynb)
 
 [Practica4](https://nbviewer.jupyter.org/github/alan-arnoldo-alcantar/DataScience_UANL/blob/master/p4/practica4.ipynb)
+
+[Practca5](https://nbviewer.jupyter.org/github/alan-arnoldo-alcantar/DataScience_UANL/blob/master/p5/practica5.ipynb)
