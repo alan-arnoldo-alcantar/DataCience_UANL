@@ -17,4 +17,4 @@ Repositorio para la meateria de ciencia de datos, cursada en la maestria de sist
 
 [Práctica8](https://nbviewer.jupyter.org/github/alan-arnoldo-alcantar/DataScience_UANL/blob/master/p8/practica8.ipynb)
 
-[Práctica9](https://nbviewer.jupyter.org/github/alan-arnoldo-alcantar/DataScience_UANL/blob/master/p8/practica8.ipynb)
+[Práctica9](https://nbviewer.jupyter.org/github/alan-arnoldo-alcantar/DataScience_UANL/blob/master/p9/practica9.ipynb)
